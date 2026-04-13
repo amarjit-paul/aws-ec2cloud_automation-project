@@ -1,4 +1,4 @@
-# aws-ec2cloud_automation-project
+# web-server-architecture-using-EC2
 
 A scalable web server deployed using EC2 with security groups and public access configuration with cpu monitoring and amazon EventBridge 
 
